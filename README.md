@@ -13,26 +13,16 @@ This is a simple Flutter-based TO-DO app that allows users to manage their notes
 ## Screenshots 📸
 
 ### 1. Home Screen
-The main screen displaying the list of notes.
-![Home Screen](screenshots/home.png)
-
----
+<img src="screenshots/home.png" alt="Home Screen" width="400">
 
 ### 2. Add Note
-The dialog box for adding a new note.
-![Add Note](screenshots/add.png)
-
----
+<img src="screenshots/add.png" alt="Add Note" width="400">
 
 ### 3. Edit Note
-The dialog box for editing an existing note.
-![Edit Note](screenshots/edit.png)
-
----
+<img src="screenshots/edit.png" alt="Edit Note" width="400">
 
 ### 4. Notes List
-View of a list with multiple notes.
-![Notes List](screenshots/threelist.png)
+<img src="screenshots/threelist.png" alt="Notes List" width="400">
 
 ## How It Works 🛠️
 1. **Adding Notes**: 
